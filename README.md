@@ -1,3 +1,5 @@
+![alt text](https://github.com/siyandacele/Siyanda-Cele-cv/blob/master/204A1725.JPG?raw=true "Siyanda C")
+
 # Curriculum Vitae of Siyanda Cele
 
 * Full Stack Web Developer
