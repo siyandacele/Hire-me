@@ -113,6 +113,5 @@ website: [www.loxionstore.co.za](http//:www.loxionstore.co.za)
 	* [BulkBuyer Africa](http://www.bulkbuyerafrica.com/) 
 	* [Lawfeeds](http://www.lawfeeds.co.za/) 
 	* [Quoter](http://www.quoter.co.za/) 
-	* [StoloSam](http://www.stolosam.co.za/) 
   
   
