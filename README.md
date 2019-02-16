@@ -4,7 +4,7 @@
 
 * Full Stack Web Developer
 * Email: [scele6@gmail.com](scele6@gmail.com)
-* Phone: [0814528002](0814528002)
+* Phone: [0659629150](0659629150)
 * Twitter: [@siyathegeek ](https://www.twitter.com/siyathegeek)
 * Linkedin: [Siyanda Cele](https://www.linkedin.com/in/siyanda-cele-24a0a42a/)
 
